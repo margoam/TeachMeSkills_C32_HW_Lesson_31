@@ -5,7 +5,7 @@ import task3.Task3Runner;
 public class AppRunner {
 
     public static void main(String[] args) {
-        //Service
+        //Strategy
         Task1Runner.runTask1();
 
         //Command
